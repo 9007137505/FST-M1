@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[SuiteCRM]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-10-28T10:41:23 IST" name="Suite" finished-at="2021-10-28T10:43:56 IST" duration-ms="153053">
+    <groups>
+    </groups>
+    <test started-at="2021-10-28T10:41:23 IST" name="Activity1" finished-at="2021-10-28T10:41:32 IST" duration-ms="9172">
+      <class name="TestNG.Activity1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity1@25ce9dc4]" started-at="2021-10-28T10:41:23 IST" name="beforeMethod" finished-at="2021-10-28T10:41:31 IST" duration-ms="7836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="exampleTestCase()[pri:0, instance:TestNG.Activity1@25ce9dc4]" started-at="2021-10-28T10:41:31 IST" name="exampleTestCase" finished-at="2021-10-28T10:41:31 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[SuiteCRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- exampleTestCase -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity1@25ce9dc4]" started-at="2021-10-28T10:41:31 IST" name="afterMethod" finished-at="2021-10-28T10:41:32 IST" duration-ms="1254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity1 -->
+    </test> <!-- Activity1 -->
+    <test started-at="2021-10-28T10:41:32 IST" name="Activity2" finished-at="2021-10-28T10:41:43 IST" duration-ms="10506">
+      <class name="TestNG.Activity2">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity2@514646ef]" started-at="2021-10-28T10:41:32 IST" name="beforeMethod" finished-at="2021-10-28T10:41:41 IST" duration-ms="9187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase1()[pri:0, instance:TestNG.Activity2@514646ef]" started-at="2021-10-28T10:41:41 IST" name="testCase1" finished-at="2021-10-28T10:41:41 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity2@514646ef]" started-at="2021-10-28T10:41:41 IST" name="afterMethod" finished-at="2021-10-28T10:41:43 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity2 -->
+    </test> <!-- Activity2 -->
+    <test started-at="2021-10-28T10:41:43 IST" name="Activity3" finished-at="2021-10-28T10:41:55 IST" duration-ms="11938">
+      <class name="TestNG.Activity3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity3@52f27fbd]" started-at="2021-10-28T10:41:43 IST" name="beforeMethod" finished-at="2021-10-28T10:41:54 IST" duration-ms="10918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="copyrightTextFooter()[pri:0, instance:TestNG.Activity3@52f27fbd]" started-at="2021-10-28T10:41:54 IST" name="copyrightTextFooter" finished-at="2021-10-28T10:41:54 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyrightTextFooter -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity3@52f27fbd]" started-at="2021-10-28T10:41:54 IST" name="afterMethod" finished-at="2021-10-28T10:41:55 IST" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity3 -->
+    </test> <!-- Activity3 -->
+    <test started-at="2021-10-28T10:41:55 IST" name="Activity4" finished-at="2021-10-28T10:42:12 IST" duration-ms="17308">
+      <class name="TestNG.Activity4">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity4@72bc6553]" started-at="2021-10-28T10:41:55 IST" name="beforeMethod" finished-at="2021-10-28T10:42:06 IST" duration-ms="11683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:0, instance:TestNG.Activity4@72bc6553]" started-at="2021-10-28T10:42:06 IST" name="login" finished-at="2021-10-28T10:42:11 IST" duration-ms="4504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity4@72bc6553]" started-at="2021-10-28T10:42:11 IST" name="afterMethod" finished-at="2021-10-28T10:42:12 IST" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity4 -->
+    </test> <!-- Activity4 -->
+    <test started-at="2021-10-28T10:42:12 IST" name="Activity5" finished-at="2021-10-28T10:42:31 IST" duration-ms="19576">
+      <class name="TestNG.Activity5">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity5@71075444]" started-at="2021-10-28T10:42:12 IST" name="beforeMethod" finished-at="2021-10-28T10:42:25 IST" duration-ms="12714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="NavigationBarcolor()[pri:0, instance:TestNG.Activity5@71075444]" started-at="2021-10-28T10:42:25 IST" name="NavigationBarcolor" finished-at="2021-10-28T10:42:30 IST" duration-ms="5602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationBarcolor -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity5@71075444]" started-at="2021-10-28T10:42:30 IST" name="afterMethod" finished-at="2021-10-28T10:42:31 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity5 -->
+    </test> <!-- Activity5 -->
+    <test started-at="2021-10-28T10:42:31 IST" name="Activity6" finished-at="2021-10-28T10:42:52 IST" duration-ms="20418">
+      <class name="TestNG.Activity6">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity6@6f01b95f]" started-at="2021-10-28T10:42:31 IST" name="beforeMethod" finished-at="2021-10-28T10:42:44 IST" duration-ms="12419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navTextActivity()[pri:0, instance:TestNG.Activity6@6f01b95f]" started-at="2021-10-28T10:42:44 IST" name="navTextActivity" finished-at="2021-10-28T10:42:51 IST" duration-ms="6867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navTextActivity -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity6@6f01b95f]" started-at="2021-10-28T10:42:51 IST" name="afterMethod" finished-at="2021-10-28T10:42:52 IST" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity6 -->
+    </test> <!-- Activity6 -->
+    <test started-at="2021-10-28T10:42:52 IST" name="Activity7" finished-at="2021-10-28T10:43:14 IST" duration-ms="21735">
+      <class name="TestNG.Activity7">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity7@710636b0]" started-at="2021-10-28T10:42:52 IST" name="beforeMethod" finished-at="2021-10-28T10:43:05 IST" duration-ms="13075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SalesLeadsMobileNumber()[pri:0, instance:TestNG.Activity7@710636b0]" started-at="2021-10-28T10:43:05 IST" name="SalesLeadsMobileNumber" finished-at="2021-10-28T10:43:12 IST" duration-ms="7446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SalesLeadsMobileNumber -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity7@710636b0]" started-at="2021-10-28T10:43:12 IST" name="afterMethod" finished-at="2021-10-28T10:43:14 IST" duration-ms="1210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity7 -->
+    </test> <!-- Activity7 -->
+    <test started-at="2021-10-28T10:43:14 IST" name="Activity8" finished-at="2021-10-28T10:43:33 IST" duration-ms="19519">
+      <class name="TestNG.Activity8">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity8@2de56eb2]" started-at="2021-10-28T10:43:14 IST" name="beforeMethod" finished-at="2021-10-28T10:43:24 IST" duration-ms="10203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PrintOddRowsData()[pri:0, instance:TestNG.Activity8@2de56eb2]" started-at="2021-10-28T10:43:24 IST" name="PrintOddRowsData" finished-at="2021-10-28T10:43:32 IST" duration-ms="8060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintOddRowsData -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity8@2de56eb2]" started-at="2021-10-28T10:43:32 IST" name="afterMethod" finished-at="2021-10-28T10:43:33 IST" duration-ms="1254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity8 -->
+    </test> <!-- Activity8 -->
+    <test started-at="2021-10-28T10:43:33 IST" name="Activity9" finished-at="2021-10-28T10:43:56 IST" duration-ms="22781">
+      <class name="TestNG.Activity9">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Activity9@48e1f6c7]" started-at="2021-10-28T10:43:33 IST" name="beforeMethod" finished-at="2021-10-28T10:43:44 IST" duration-ms="10429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SalesLeadsNameAndUser()[pri:0, instance:TestNG.Activity9@48e1f6c7]" started-at="2021-10-28T10:43:44 IST" name="SalesLeadsNameAndUser" finished-at="2021-10-28T10:43:54 IST" duration-ms="10798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SalesLeadsNameAndUser -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Activity9@48e1f6c7]" started-at="2021-10-28T10:43:54 IST" name="afterMethod" finished-at="2021-10-28T10:43:56 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Activity9 -->
+    </test> <!-- Activity9 -->
+  </suite> <!-- Suite -->
+</testng-results>
